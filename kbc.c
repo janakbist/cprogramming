@@ -4,7 +4,7 @@
 void main()
 {
 		int i,a[5],n=0;
-	printf("welcome to the game ko bancha cororpati . It contains 10 QUESTIONS each carry 20 points \n\t");
+	printf("welcome to the game ko bancha cororpati . It contains 5 QUESTIONS each carry 20 points \n\t");
 	for(i=1;i<=5;i++)
 	{
 		n=0;
